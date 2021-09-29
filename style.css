@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+canvas {
+    border: 2px white double;
+    border-radius: 20px;
+}
+
+h4 {
+    position: sticky;
+    background-color: white;
+    line-height: 2;
+    bottom: 0;
+}
+
+h1 {
+    font-size: 40px;
+    width: 225px;
+    background-color:cornsilk;
+    border-radius: 20px;
+}
